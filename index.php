@@ -1,1 +1,1 @@
-<?php header("Location: ./SexyDog/SexyDog"); ?>
+<?php header("Location: ./SexyDog/index.html"); ?>
